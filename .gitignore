@@ -1,0 +1,14 @@
+# Unity Specific
+Library/
+Temp/
+Logs/
+obj/
+.vs/
+.vscode/
+UserSettings/
+Build/
+Builds/
+*.csproj
+*.unityproj
+*.sln
+*.userprefs
